@@ -1,1 +1,1 @@
-# jenkins-java-example
+# pfizer-jenkins-pipeline-java
