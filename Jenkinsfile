@@ -1,7 +1,7 @@
 pipeline{
 
     agent{
-        lanel "master"
+        label "master"
     }
     tools{
         maven "maven-3.8.3"
